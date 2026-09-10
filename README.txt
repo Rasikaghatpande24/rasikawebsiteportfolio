@@ -1,0 +1,1 @@
+Open index.html in a browser. Website demos are in websites.html. Internet is required for fonts and the attributed anatomy image. Mail opens a prefilled email. WhatsApp awaits the owner phone number. Login is not implemented pending confirmation of client versus admin access. Bookings, cart and payments are demonstrations, not connected services.
